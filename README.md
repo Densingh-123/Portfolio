@@ -13,7 +13,13 @@
     <a href="https://github.com/ddensingh">Request Feature</a>
 </h3>
 
+![Image](https://github.com/user-attachments/assets/45819fb0-9d95-4231-a238-e0753509f926)
 
+![Image](https://github.com/user-attachments/assets/16cccd12-e38a-4ffb-a8ba-898bc5b445ce)
+
+![Image](https://github.com/user-attachments/assets/c7e0bc25-594e-44bd-9728-7d1cbe9dc0de)
+
+![Image](https://github.com/user-attachments/assets/b5aa32d1-9da8-49c2-81b4-7d02c70c1b72)
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Densingh](https://github.com/Densingh-123). Thanks!
 
